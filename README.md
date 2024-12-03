@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deekshant
+- 👋 Hi, my name is [Deekshant Wadhwa](https://github.com/deekshant-w) (https://github.com/deekshant-w).
 - 👀 I’m interested in everything!
 - 🌱 I’m currently learning Rust
 
